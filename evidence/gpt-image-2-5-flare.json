@@ -1,0 +1,29 @@
+{
+  "task_id": "tsk_img_01M51808Q1CM0M4N2S1D80EAKN",
+  "model": "gpt-image-2.5-flare",
+  "quote_usd": 0.0225,
+  "actual_charge_usd": null,
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "PNG",
+  "billing": null,
+  "request": {
+    "model": "gpt-image-2.5-flare",
+    "prompt": "Original cinematic detective storyboard, clearly adult 35-year-old detective in a closed navy trench coat holding a plain umbrella beside a rainy neon street, reflections in blue and amber, no text, no logos, square composition.",
+    "n": 1,
+    "size": "1:1",
+    "metadata": {
+      "resolution": "1K"
+    },
+    "quality": "high"
+  },
+  "original_output": "examples/gpt-image-2-5-flare.original.png",
+  "date": "2026-10-16",
+  "status": "completed",
+  "prompt": "Original cinematic detective storyboard, clearly adult 35-year-old detective in a closed navy trench coat holding a plain umbrella beside a rainy neon street, reflections in blue and amber, no text, no logos, square composition.",
+  "output": "examples/gpt-image-2-5-flare.png",
+  "sha256": "3e8fdd4b00d9b1d33abc9df82c17c7ee274a3c88a385fb0f3bb1e32d0470a251",
+  "validation_scope": "Independent API asset adapter example; upstream application UI and native registration not accepted yet"
+}

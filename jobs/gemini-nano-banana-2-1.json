@@ -1,0 +1,9 @@
+{
+  "kind": "image",
+  "model": "gemini-nano-banana-2.1",
+  "prompt": "Original cinematic detective storyboard, clearly adult 35-year-old detective in a closed navy trench coat holding a plain umbrella beside a rainy neon street, reflections in blue and amber, no text, no logos, square composition.",
+  "size": "1024x1024",
+  "run_id": "1016-dc-2",
+  "output": "examples/gemini-nano-banana-2-1.png",
+  "evidence": "evidence/gemini-nano-banana-2-1.json"
+}

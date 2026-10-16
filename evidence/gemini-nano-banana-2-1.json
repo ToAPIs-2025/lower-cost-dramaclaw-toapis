@@ -1,0 +1,28 @@
+{
+  "task_id": "tsk_img_01M517ZZH97ZDQH4MXS1HT7DF7",
+  "model": "gemini-nano-banana-2.1",
+  "quote_usd": 0.015,
+  "actual_charge_usd": null,
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "JPEG",
+  "billing": null,
+  "request": {
+    "model": "gemini-nano-banana-2.1",
+    "prompt": "Original cinematic detective storyboard, clearly adult 35-year-old detective in a closed navy trench coat holding a plain umbrella beside a rainy neon street, reflections in blue and amber, no text, no logos, square composition.",
+    "n": 1,
+    "size": "1:1",
+    "metadata": {
+      "resolution": "1K"
+    }
+  },
+  "original_output": "examples/gemini-nano-banana-2-1.original.jpg",
+  "date": "2026-10-16",
+  "status": "completed",
+  "prompt": "Original cinematic detective storyboard, clearly adult 35-year-old detective in a closed navy trench coat holding a plain umbrella beside a rainy neon street, reflections in blue and amber, no text, no logos, square composition.",
+  "output": "examples/gemini-nano-banana-2-1.png",
+  "sha256": "41188b5ceb4ee6a13fd81380f5ce07384968c4b6faaec43ffd037597e4f624c4",
+  "validation_scope": "Independent API asset adapter example; upstream application UI and native registration not accepted yet"
+}

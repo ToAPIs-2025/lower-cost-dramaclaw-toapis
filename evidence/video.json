@@ -1,0 +1,34 @@
+{
+  "task_id": "tsk_vid_01M5183AXP2F5487CCP8961ANE",
+  "model": "MiniMax-H3",
+  "request": {
+    "model": "MiniMax-H3",
+    "prompt": "Slow stable camera push along the rainy street toward the adult detective under a plain umbrella, subtle raindrops and reflections, no text.",
+    "duration": 5,
+    "resolution": "768p",
+    "aspect_ratio": "1:1",
+    "image_with_roles": [
+      {
+        "url": "<reference URL omitted>",
+        "role": "first_frame"
+      }
+    ]
+  },
+  "catalog_estimate_usd": "0.40",
+  "billing": {
+    "status": "pending"
+  },
+  "actual_charge_usd": null,
+  "date": "2026-10-16",
+  "status": "completed",
+  "prompt": "Slow stable camera push along the rainy street toward the adult detective under a plain umbrella, subtle raindrops and reflections, no text.",
+  "output": "demo/first-frame-motion.mp4",
+  "sha256": "e0f8005c6a04082e3f23cd16c4af01495f473334e23a06844fdd1f217772ce26",
+  "validation_scope": "Independent API asset adapter example; upstream application UI and native registration not accepted yet",
+  "full_video_decode_verified": true,
+  "actual_duration_seconds": 5.17,
+  "actual_dimensions": [
+    768,
+    768
+  ]
+}
