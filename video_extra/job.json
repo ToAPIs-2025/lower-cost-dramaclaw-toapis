@@ -1,0 +1,7 @@
+{
+  "model": "seedance-2-mini",
+  "image": "https://raw.githubusercontent.com/ToAPIs-2025/lower-cost-dramaclaw-toapis/main/examples/gpt-image-2-vip.png",
+  "prompt": "Slow stable camera push along the rainy street toward the adult detective under a plain umbrella, subtle raindrops and reflections, no text.",
+  "run_id": "my-unique-seedance-2-mini-example",
+  "output": "results/seedance-2-mini.mp4"
+}
